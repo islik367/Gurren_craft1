@@ -7,20 +7,7 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": [
-      {
-        "name": "blocks",
-        "children": []
-      },
-      {
-        "name": "mobs",
-        "children": []
-      },
-      {
-        "name": "items",
-        "children": []
-      }
-    ]
+    "children": []
   },
   "workspaceSettings": {
     "modid": "gurren_craft",
